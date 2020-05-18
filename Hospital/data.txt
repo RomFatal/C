@@ -1,0 +1,50 @@
+hello#Therapists:
+[1] 40, Iosf, Domingo, 1427, 9485, alergic to pineapple
+[1] 30, Rami, Cohen, 0392428, 9485, skin doctor
+[1] 30, Ramgi, Cohen, 0345928, 9485, skin doctor
+[1] 30, Rdami, Cohen, 03342928, 9485, skin doctor
+[1] 30, Rami, Cohen, 1223, 9485, skin doctor
+[1] 30, Rami, Cohen, 45, 9485, skin doctor
+[1] 30, Ramfi, Cohen, 54, 9485, skin doctor
+[1] 30, Rsami, Cohen, 454321, 9485, skin doctor
+[1] 30, Rami, Cohen, 42245, 9485, skin doctor
+[1] 30, Rami, Cohen, 41, 9485, skin doctor
+# Receptionist:
+[3] 40, Rachel, oz, 94443, 9485, alergic to pineapple
+> 1427, 1, 10/02/2019, 15:05, check up, pending.
+> 1427, 1, 10/02/2019, 16:04, check up, pending.
+[3] 40, Rachhfcel, oz, 1224, 9485, alergic to pineapple
+> 1427, 1, 10/02/2019, 15:04, check up, pending.
+> 1427, 1, 10/02/2018, 16:03, check up, pending.
+[3] 40, Rachfcghel, oz, 12242, 9485, alergic to pineapple
+> 1427, 1, 10/02/2018, 15:03, check up, pending.
+> 1427, 1, 10/02/2020, 16:02, check up, pending.
+[3] 40, Rachfchel, oz, 45, 9485, alergic to pineapple
+> 1427, 1, 10/02/2020, 15:02, check up, pending.
+> 45, 1, 10/02/2020, 16:00, check up, pending.
+[3] 40, Rachfchel, oz, 455, 9485, alergic to pineapple
+> 45, 1, 10/02/2020, 15:00, check up, pending.
+> 45, 1, 10/02/2020, 16:01, check up, pending.
+[3] 40, Raccfhel, oz, 45543453, 9485, alergic to pineapple
+> 45, 1, 10/02/2020, 15:01, check up, pending.
+[3] 40, Rachel, oz, 7878, 9485, alergic to pineapple
+> 1427, 1, 10/02/2019, 16:05, check up, pending.
+#Patients:
+[2] 30, Rami, Cohen, 03928, 9485, skin doctor
+[2] 40, Igak, BenDavid, 45345, 78, alergic to pineapple
+[2] 40, Moti, Ben, 54345387, 7854, alergic to pineapple
+[2] 40, Drake, Bing, 567868, 3487, alergic to pineapple
+[2] 40, Violta, Ivasnko, 4524, 854, alergic to pineapple
+[2] 40, Uri, fatal, 1, 1, alergic to pineapple
+> 1427, 1, 10/02/2019, 15:05, check up, pending.
+> 1427, 1, 10/02/2019, 15:04, check up, pending.
+> 1427, 1, 10/02/2018, 15:03, check up, pending.
+> 1427, 1, 10/02/2020, 15:02, check up, pending.
+> 45, 1, 10/02/2020, 15:00, check up, pending.
+> 45, 1, 10/02/2020, 15:01, check up, pending.
+> 1427, 1, 10/02/2019, 16:05, check up, pending.
+> 1427, 1, 10/02/2019, 16:04, check up, pending.
+> 1427, 1, 10/02/2018, 16:03, check up, pending.
+> 1427, 1, 10/02/2020, 16:02, check up, pending.
+> 45, 1, 10/02/2020, 16:00, check up, pending.
+> 45, 1, 10/02/2020, 16:01, check up, pending.
