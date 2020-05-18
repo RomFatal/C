@@ -1,0 +1,11 @@
+#this is a comment line
+
+#<table name>: <col1 name>,<col2 name>, etc..
+teachers: name, course, salary, phone, age
+#table rows/content
+#the format is with reference to the table's format
+Cani, physics, 10000, 0544123456, 40
+Bani, sports, 5000, 0544784763, 35
+Arial, sports, 5000, 0544784763, 35
+
+#make your own data while implying this form
